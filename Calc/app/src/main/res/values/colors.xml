@@ -3,4 +3,9 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="colorLightCyan">#E0FFFF</color>
+    <color name="colorPaleTurquoise">#AFEEEE</color>
+    <color name="colorCalcBackground">#d8ffec</color>
+    <color name="colorAzure">#F0FFFF</color>
+    <color name="colorBirthday">#280197</color>
 </resources>
